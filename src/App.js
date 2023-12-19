@@ -1,5 +1,5 @@
 import Expenses from './components/Expenses/Expenses';
-// import "./App.css"
+
 
 import NewExpense from './components/NewExpense/NewExpense';
 
